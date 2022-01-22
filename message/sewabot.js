@@ -4,19 +4,17 @@ return `${ucapanWaktu} kak ${pushname}
 Berikut adalah list harga untuk sewa botz
 
 *╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
-*┴*
-*│▸* 2 hari = 2k         
-*│▸* 7 hari = 5k         
-*│▸* permanen = 10k                          
+*┴*        
+*│▸* permanen PROMO = 5k                          
 *┬*
 *╰────────────[*
 
 *╭─▸*「 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 」
 *┴*
 *│▸* Shopee : ${settings.Shopee}
-*│▸* Gopay : ${settings.Gopay}
-*│▸* Dana : ${settings.Dana}
-*│▸* Ovo : ${settings.Ovo}
+*│▸* Gopay : ${settings.SCAN}
+*│▸* Dana : ${settings.SCAN QRIS ALL PAY}
+*│▸* Ovo : ${settings.SCAN QRIS ALL PAY}
 *┬*
 *╰────────────[*
 
